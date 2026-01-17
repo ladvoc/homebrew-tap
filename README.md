@@ -1,2 +1,4 @@
-# homebrew-tap
-Homebrew formulas
+# Homebrew Tap
+
+Homebrew formulas for @ladvoc's projects.
+
